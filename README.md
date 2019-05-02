@@ -14,6 +14,10 @@ django-admin startproject mysite
 
 python manage.py runserver
 
+- startapp
+
+python manage.py startapp $APPNAME
+
 - activate venv
 
 daiki@bull:~/w/p/django-tutorial> source venv/bin/activate.fish
