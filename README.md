@@ -1,10 +1,11 @@
-# django-tutorial
+* django-tutorial
 
-This is a Django-tutorial for daiki.
-
+This is a Django-tutorial.
 https://docs.djangoproject.com/ja/2.1/intro/
 
 Let's have fun!
+
+** tips
 
 - create project
 
