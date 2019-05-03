@@ -1,3 +1,5 @@
+# django-tutorial
+
 * django-tutorial
 
 This is a Django-tutorial.
@@ -9,11 +11,11 @@ Let's have fun!
 
 - create project
 
-django-admin startproject mysite
+$ django-admin startproject mysite
 
 - runserver
 
-python manage.py runserver
+$ python manage.py runserver
 
 - startapp
 
@@ -21,16 +23,16 @@ python manage.py startapp $APPNAME
 
 - activate venv
 
-daiki@bull:~/w/p/django-tutorial> source venv/bin/activate.fish
+$ daiki@bull:~/w/p/django-tutorial> source venv/bin/activate.fish
 
 - deactivate venv
 
-daiki@bull:~/w/p/django-tutorial> deactivate
+$ daiki@bull:~/w/p/django-tutorial> deactivate
 
 - git
 
-git add -A
+$ git add -A
 
-git commit -m 'message'
+$ git commit -m 'message'
 
-git push origin master
+$ git push origin master
